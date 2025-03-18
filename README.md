@@ -23,9 +23,7 @@ Each package/app is 100% [TypeScript](https://www.typescriptlang.org/).
 - [ESLint](https://eslint.org/) for code linting
 - [Prettier](https://prettier.io) for code formatting
 
-### Build
-
-To build all apps and packages, run the following command:
+build all apps and packages, run the following command:
 
 ```
 cd my-turborepo
